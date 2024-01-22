@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @windme2
-- 👀 I’m interested in ... Front-end Developer
+- 👀 I’m interested in ... Front-end Developer >> Back-end >> Full Stack
 - 🌱 I’m currently learning ... HTML CSS JavaScript >> React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... None
 - 📫 How to reach me ...
 - FB : Shepherd
 - Line : Thewindters

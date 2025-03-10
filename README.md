@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning ... HTML CSS JavaScript >> React
 - 💞️ I’m looking to collaborate on ... None
 - 📫 How to reach me ...
-- FB : Shepherd
-- Line : Thewindters
-- IG : wynnie.crp
 
 <!---
 windme2/windme2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
